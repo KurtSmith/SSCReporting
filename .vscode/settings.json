@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/1bca8f4a-c60e-4d47-98e3-079d7713e314/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/SSCReporting",
+    "appService.deploySubpath": ""
+}
