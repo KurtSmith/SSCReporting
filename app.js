@@ -11,7 +11,4 @@ app.get('/', (req, res) => {
   res.send('SSC Reporting!');
 });
 
-app.listen(80, () =>
-  console.log(`Example app listening on port 80!`),
-);
-module.exports = app;
+app.listen(3000);
