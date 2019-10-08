@@ -1,1 +1,3 @@
 # SSCReporting
+
+Enable reporting
