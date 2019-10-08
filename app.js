@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
   res.send('SSC Reporting!');
 });
 
-app.listen(process.env.port, () =>
-  console.log(`Example app listening on port ${process.env.port}!`),
+app.listen(3000, () =>
+  console.log(`Example app listening on port 3000!`),
 );
 module.exports = app;
