@@ -10,5 +10,5 @@ app.use(cors());
 app.get('/', (req, res) => {
   res.send('SSC Reporting!');
 });
-
+console.log("*****************************Starting app********************************")
 app.listen(3000);
